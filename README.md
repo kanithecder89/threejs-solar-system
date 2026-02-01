@@ -16,5 +16,6 @@ HTML5, CSS3, JavaScript, Three.js
 Built to demonstrate advanced frontend animation skills and 3D web experiences.
 
 ## Preview
-(Add screenshots here)
+<img width="1080" height="907" alt="image" src="https://github.com/user-attachments/assets/fd04bf4a-cf31-437e-a5c2-d7870d8b6376" />
+
 
